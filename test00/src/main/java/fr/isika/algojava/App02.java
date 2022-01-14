@@ -3,6 +3,7 @@ package fr.isika.algojava;
 // MAIN
 // Modif sur la nouvelle branche testing
 // Modif pour GIT
+// Nouvelle modif GIT
 
 import java.util.Random;
 import java.util.Scanner;
